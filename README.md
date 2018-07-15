@@ -1,1 +1,1 @@
-# stack2DTransformation
+> For detailed description of the project, see the SBPP 2D Transformation .docx file first, then the User Interface .docx file.
